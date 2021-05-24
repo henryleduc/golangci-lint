@@ -55,7 +55,7 @@ require (
 	github.com/ssgreg/nlreturn/v2 v2.1.0
 	github.com/stretchr/testify v1.6.1
 	github.com/tdakkota/asciicheck v0.0.0-20200416190851-d7f85be797a2
-	github.com/tetafro/godot v1.3.0
+	github.com/tetafro/godot v1.4.7
 	github.com/timakin/bodyclose v0.0.0-20190930140734-f7f2e9bca95e
 	github.com/tomarrell/wrapcheck v0.0.0-20200807122107-df9e8bcb914d
 	github.com/tommy-muehle/go-mnd v1.3.1-0.20200224220436-e6f9a994e8fa
@@ -65,7 +65,7 @@ require (
 	github.com/valyala/quicktemplate v1.6.3
 	golang.org/x/sys v0.0.0-20201009025420-dfb3f7c4e634 // indirect
 	golang.org/x/tools v0.0.0-20201013201025-64a9e34f3752
-	gopkg.in/yaml.v2 v2.3.0
+	gopkg.in/yaml.v2 v2.4.0
 	honnef.co/go/tools v0.0.1-2020.1.6
 	mvdan.cc/gofumpt v0.0.0-20200802201014-ab5a8192947d
 	mvdan.cc/interfacer v0.0.0-20180901003855-c20040233aed
